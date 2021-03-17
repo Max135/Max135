@@ -1,3 +1,4 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Max135&theme=slateorange&show_icons=true)](https://github.com/Max135/github-readme-stats)
 ### Hi there 👋
 
 <!--
